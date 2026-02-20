@@ -1,0 +1,7 @@
+MSH|^~\&|RIS-Application|risone|PACS-Application|RADONE|20260220144500-0500||ORU^R01|MSG00002|P|2.5
+PID|1||TST00042^^^TESTMRN^MR||SMITH^ALEX||20030507|M||2131-1|404 NOWHERE AVE^^MONTREAL^QC^H3Z2Y7^CA||(514)555-0123
+PV1|1|E|ER^02^01^TESTHOSP||||777^DOCTOR^SAM^^^^MD|||||||||||V0000042
+ORC|RE|ORD00042|FILL00042||CM
+OBR|1|ORD00042|FILL00042|XRCHST^X-Ray Chest 2 Views^L|||20260220144200-0500|||||||||777^DOCTOR^SAM^^^^MD||||||20260220144400-0500|||F
+OBX|1|TX|RPT^Report Text^L||Findings:\.br\No consolidation.\.br\No pleural effusion.\.br\Impression: Normal study.|||N|||F
+OBX|2|ST|NOTE^Escapes Demo^L||Patient states: \F\cough\F\ started 2 days ago. Uses \S\OTC meds\S\ and feels better.\.br\Symbols: caret \S\ hat, ampersand \T\ and, backslash \E\ slash.|||N|||F
